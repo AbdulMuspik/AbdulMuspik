@@ -1,8 +1,8 @@
-<h1>
+<h1 align="center">
   <img
     src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif"
     width="30"
-    alt="centrumek"
+    alt="AbdulMuspik -- Profile Heading -- Welcome to my world!"
   />
   Welcome to my world!
 </h1>
@@ -26,11 +26,7 @@
         </h4>
       </td>
       <td width="30%" rowspan="2">
-        <a href="https://app.daily.dev/centrumek">
-          <img
-            src="./devcard.svg"
-            alt="centrumek"
-          />
+        <a href="https://app.daily.dev/abdulmuspik"><img src="https://api.daily.dev/devcards/v2/jt8xcU0cXewosX0ZMIsj8.png?type=default&r=756" width="356" alt="Abdul Muspik's Dev Card"/>
         </a>
       </td>
     </tr>
