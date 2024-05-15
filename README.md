@@ -2,9 +2,9 @@
   <img
     src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif"
     width="30"
-    alt="AbdulMuspik -- Profile Heading -- Welcome to my world!"
+    alt="AbdulMuspik -- Profile Heading -- Welcome to my World!"
   />
-  Welcome to my world!
+  Welcome to my World!
 </h1>
 
 <table>
@@ -15,7 +15,7 @@
           <img
             src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
             width="30px"
-            alt="centrumek"
+            alt="Wave gif"
           />
           I'm Abdul Muspik
         </h2>
@@ -32,10 +32,7 @@
     </tr>
     <tr align="center">
       <td>
-        <img
-          src="https://komarev.com/ghpvc/?username=centrumek&label=visitors&color=0e75b6&style=flat"
-          alt="centrumek"
-        >
+        <img src="https://komarev.com/ghpvc/?username=abdulmuspik&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmuspik" />
       </td>
       <td>
         <a href="https://stackoverflow.com/users/14496012/centrumek">
