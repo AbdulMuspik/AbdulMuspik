@@ -17,7 +17,7 @@
             width="30px"
             alt="centrumek"
           />
-          I'm Paul Potaczała
+          I'm Abdul Muspik
         </h2>
         <h4>
           Harmonious Software Engineer finding the consciousness and peace among time units.
