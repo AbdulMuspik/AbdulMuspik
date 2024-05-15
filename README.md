@@ -1,23 +1,20 @@
-<h1 align="center">
-  <img
-    src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif"
-    width="30"
-    alt="AbdulMuspik -- Profile Heading -- Welcome to my World!"
-  />
-  Welcome to my World!
-</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=19C55C&center=true&random=false&width=435&lines=Hello+Welcome+to+my+profile+" alt="Typing SVG"/>
+  </a>
+</div>
 
 <table>
   <tbody>
     <tr>
       <td align="center" width="70%" colspan="2">
         <h2>
+          I'm Abdul Muspik 
           <img
             src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
             width="30px"
             alt="Wave gif"
           />
-          I'm Abdul Muspik
         </h2>
         <h4>
           Harmonious Software Engineer finding the consciousness and peace among time units.
@@ -45,18 +42,3 @@
     </tr>
   </tbody>
 </table>
-
-<!--
-**AbdulMuspik/AbdulMuspik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
