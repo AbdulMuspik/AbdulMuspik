@@ -32,13 +32,11 @@
         <img src="https://komarev.com/ghpvc/?username=abdulmuspik&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmuspik" />
       </td>
       <td>
-        <a href="https://stackoverflow.com/users/14496012/centrumek">
-          <img
-            src="https://stackoverflow.com/users/flair/14496012.png?theme=dark"
-            alt="centrumek"
-          >
-        </a>
-      </td>
+        <a href="https://twitter.com/hamzaibnmutlib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamzaibnmutlib" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-hamza-ibn-abdul-mutlib-506038306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-hamza-ibn-abdul-mutlib-506038306" height="30" width="40" /></a>
+</p>
+
+   </td>
     </tr>
   </tbody>
 </table>
