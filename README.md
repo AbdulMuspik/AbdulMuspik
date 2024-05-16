@@ -8,18 +8,26 @@
   <tbody>
     <tr>
       <td align="center" width="70%" colspan="2">
-        <h2>
-          I'm Abdul Muspik 
-          <img
-            src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-            width="30px"
-            alt="Wave gif"
-          />
-        </h2>
+        <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <div style="text-align: center;">
+    <h2>
+      Hi, I'm Abdul Muspik 
+      <img
+        src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+        width="30px"
+        alt="Wave gif"
+      />
+    </h2>
+  </div>
+ </div>
         <h4>
-          Harmonious Software Engineer finding the consciousness and peace among time units.
-          <br/>
-          I talk about Tech, Self-Development and Well-Being. 🌿🧘🚀
+          Founder of <a target="_blank" href="https://theexamwinner.com/">Exam winner</a> , Business Consultant & Software Developer from India <br>
+          🎓 I have completed my High School from Dr. Radhakrishnan School of Arts, Commerce & Science 🔬 <br>
+          🎓 I'm currently studying for Joint Entrance Examination Advance (JEE Adv) <br>
+          🤝🏻 I’m looking to collaborate on Real estate management projects <br>
+          🙋🏻‍♂️ I’m looking for help with a remote job from India <br>
+          📚 I am currently learning Kotlin <br>
+          📫 Reach me out : <a href="mailto:muhammadhamzaibnabdulmutlib@gmail.com">Mail</a>
         </h4>
       </td>
       <td width="30%" rowspan="2">
@@ -45,7 +53,7 @@
 
 ---
 
-## My Stats
+<h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
   <img 
@@ -74,6 +82,6 @@
 
 ---
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+<h2 align="center">💡 My tech Stack 💡</h2>
 
-![My Skills](https://skillicons.dev/icons?i=cpp,py,js,ts,swift,html,css,js,bootstrap,vue,react,nextjs,nodejs,django,express,prisma,npm,webpack,mongodb,mysql,redis,aws,gcp,firebase,cloudflare,git,github,docker,postman,figma,wordpress,notion,blender,flutter,pytorch,py,ps,pr)
+![My Skills](https://skillicons.dev/icons?i=cpp,py,js,ts,swift,html,css,js,bootstrap,vue,react,nextjs,nodejs,django,express,prisma,npm,webpack,mongodb,mysql,redis,aws,gcp,firebase,cloudflare,git,github,docker,postman,figma,wordpress,notion,blender,flutter,pytorch,ps,pr)
