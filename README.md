@@ -45,9 +45,11 @@
 
 ---
 
+## My Stats
+
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=AbdulMuspik&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api?username=AbdulMuspik&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000&hide_title=true"
     alt="AbdulMuspik"
   />
   <img
