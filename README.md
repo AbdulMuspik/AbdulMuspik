@@ -71,3 +71,7 @@
 </div>
 
 ---
+
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
+![My Skills](https://skillicons.dev/icons?i=cpp,py,js,ts,swift,html,css,js,bootstrap,vue,react,nextjs,nodejs,django,express,prisma,npm,webpack,mongodb,mysql,redis,aws,gcp,firebase,cloudflare,git,github,docker,postman,figma,wordpress,notion,blender,flutter,pytorch,py,ps,pr)
