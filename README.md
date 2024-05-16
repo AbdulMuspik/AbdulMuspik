@@ -42,3 +42,32 @@
     </tr>
   </tbody>
 </table>
+
+---
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AbdulMuspik&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000"
+    alt="AbdulMuspik"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMuspik&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&exclude_repo=air-statistic-app"
+    alt="AbdulMuspik"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=AbdulMuspik&theme=dark&hide_border=true&background=FFFFFF00"
+    alt="AbdulMuspik"
+  />
+  <br/>
+  <br/>
+  <a href="https://www.buymeacoffee.com/abdulmuspik">
+    <img
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png"
+      height="50"
+      width="210"
+      alt="abdulmuspik"
+    />
+  </a>
+</div>
+
+---
