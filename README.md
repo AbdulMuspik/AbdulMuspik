@@ -27,7 +27,7 @@
           🤝🏻 I’m looking to collaborate on Real estate management projects <br>
           🙋🏻‍♂️ I’m looking for help with a remote job from India <br>
           📚 I am currently learning Kotlin <br>
-          📫 Reach me out : <a href="mailto:muhammadhamzaibnabdulmutlib@gmail.com">Mail</a>
+          📫 Reach me out : <a href="mailto:muhammadhamzaibnabdulmutlib@gmail.com">muhammadhamzaibnabdulmutlib@gmail.com</a>
         </h4>
       </td>
       <td width="30%" rowspan="2">
