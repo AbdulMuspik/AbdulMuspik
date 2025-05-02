@@ -21,7 +21,7 @@
   </div>
  </div>
         <h4>
-          Founder of <a target="_blank" href="https://theexamwinner.com/">Exam winner</a> , Business Consultant & Software Developer from India <br>
+          Founder of <a target="_blank" href="https://endlabs.space/">Endlabs</a> , Business Consultant & Software Developer from India <br>
           🎓 I have completed my High School from Dr. Radhakrishnan School of Arts, Commerce & Science 🔬 <br>
           🎓 I'm currently studying for Joint Entrance Examination Advance (JEE Adv) <br>
           🤝🏻 I’m looking to collaborate on Real estate management projects <br>
