@@ -22,12 +22,13 @@
  </div>
         <h4>
           Founder of <a target="_blank" href="https://endlabs.space/">Endlabs</a> , Business Consultant & Software Developer from India <br>
+          🎓 Currently, I am at IILM University Greater Noida, Purcusing my btech from CSE branch.
           🎓 I have completed my High School from Dr. Radhakrishnan School of Arts, Commerce & Science 🔬 <br>
           🎓 I'm currently studying for Joint Entrance Examination Advance (JEE Adv) <br>
           🤝🏻 I’m looking to collaborate on Real estate management projects <br>
           🙋🏻‍♂️ I’m looking for help with a remote job from India <br>
           📚 I am currently learning Kotlin <br>
-          📫 Reach me out : <a href="mailto:muhammadhamzaibnabdulmutlib@gmail.com">muhammadhamzaibnabdulmutlib@gmail.com</a>
+          📫 Reach me out : <a href="mailto:muspikabdulofficial@gmail.com.com">muspikabdulofficial@gmail.com</a>
         </h4>
       </td>
       <td width="30%" rowspan="2">
