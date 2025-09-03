@@ -21,13 +21,8 @@
   </div>
  </div>
         <h4>
-          Founder of <a target="_blank" href="https://endlabs.space/">Endlabs</a> , Business Consultant & Software Developer from India <br>
-          🎓 Currently, I am at IILM University Greater Noida, Purcusing my btech from CSE branch.
-          🎓 I have completed my High School from Dr. Radhakrishnan School of Arts, Commerce & Science 🔬 <br>
-          🎓 I'm currently studying for Joint Entrance Examination Advance (JEE Adv) <br>
-          🤝🏻 I’m looking to collaborate on Real estate management projects <br>
-          🙋🏻‍♂️ I’m looking for help with a remote job from India <br>
-          📚 I am currently learning Kotlin <br>
+          Building <a target="_blank" href="https://endlabs.space/">Endlabs</a> , Business Consultant & Software Developer from India <br>
+          🎓 Currently, I am at IILM University Greater Noida, Purcusing my btech from CSE branch. I am also working as a remote software developer at Cosme futures.<br>
           📫 Reach me out : <a href="mailto:muspikabdulofficial@gmail.com.com">muspikabdulofficial@gmail.com</a>
         </h4>
       </td>
@@ -43,9 +38,7 @@
       <td>
 <p align="center">
 <a href="https://twitter.com/hamzaibnmutlib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamzaibnmutlib" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-hamza-ibn-abdul-mutlib-506038306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-hamza-ibn-abdul-mutlib-506038306" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/muhammadhamzaib1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhammadhamzaib1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/muhammad-hamza-ibn-am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammad-hamza-ibn-am" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdul-muspik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin-abdul-muspik" height="30" width="40" /></a>
 </p>
    </td>
     </tr>
