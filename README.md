@@ -36,15 +36,6 @@
 
 ---
 
-### ⚡ Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulMuspik&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000&hide_title=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMuspik&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&exclude_repo=air-statistic-app" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulMuspik&theme=dark&hide_border=true&background=FFFFFF00" alt="GitHub Streak"/>
-</div>
-
----
-
 ### ☕ Support Me
 <div align="center">
   <a href="https://www.buymeacoffee.com/abdulmuspik">
